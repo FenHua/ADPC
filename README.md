@@ -4,6 +4,23 @@ DPC；CFS；automatic clustering；density-based clustering
 
 please cite those articles：
 
-Yan, Huanqian, Yonggang Lu, and Heng Ma. "Density-based Clustering using Automatic Density Peak Detection.." international conference on pattern recognition applications and methods (2018): 95-102.
-
-Yan, Huanqian, Lei Wang, and Yonggang Lu. "Identifying cluster centroids from decision graph automatically using a statistical outlier detection method." Neurocomputing (2019): 348-358.
+```
+@inproceedings{yan2018density,
+  title={Density-based Clustering using Automatic Density Peak Detection.},
+  author={Yan, Huanqian and Lu, Yonggang and Ma, Heng and others},
+  booktitle={ICPRAM},
+  pages={95--102},
+  year={2018}
+}
+```
+```
+@article{yan2019identifying,
+  title={Identifying cluster centroids from decision graph automatically using a statistical outlier detection method},
+  author={Yan, Huanqian and Wang, Lei and Lu, Yonggang},
+  journal={Neurocomputing},
+  volume={329},
+  pages={348--358},
+  year={2019},
+  publisher={Elsevier}
+}
+```
